@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { IBM_Plex_Mono, IBM_Plex_Sans } from "next/font/google";
 import Nav from "@/components/Nav";
+import { PipelineProvider } from "@/components/PipelineState";
 import "./globals.css";
 
 const plexSans = IBM_Plex_Sans({
@@ -34,10 +35,12 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             Demonstration environment. Synthesized data.
           </span>
         </header>
-        <div className="flex">
-          <Nav />
-          <main className="min-w-0 flex-1 px-6 py-5">{children}</main>
-        </div>
+        <PipelineProvider>
+          <div className="flex">
+            <Nav />
+            <main className="min-w-0 flex-1 px-6 py-4">{children}</main>
+          </div>
+        </PipelineProvider>
       </body>
     </html>
   );

@@ -1,10 +1,21 @@
-// Shapes of data/cencora-demo-seed.json, as described in the build brief.
-// Confirm against the real file once it is committed.
+// Shapes of data/cencora-demo-seed.json.
 
-export type Vendor = "Dematic" | "KNAPP" | "SSI Schaefer";
+export interface SeedAttachment {
+  filename: string;
+  doc_type: string;
+  corrupt?: boolean;
+}
+
+export interface SeedExpect {
+  outcome: "held" | "rejected";
+  reason: string;
+  detail: string;
+}
 
 export interface SeedEmail {
   id: string;
+  source: "rfi" | "synthesized";
+  source_note: string;
   vendor: string;
   received: string;
   from_name: string;
@@ -13,10 +24,8 @@ export interface SeedEmail {
   subject: string;
   body: string;
   has_attachment: boolean;
-  attachment: unknown;
-  source: "rfi" | "synthesized";
-  source_note: string;
-  expect?: { outcome: "held" | "rejected"; reason?: string; [k: string]: unknown };
+  attachment: SeedAttachment | null;
+  expect?: SeedExpect;
 }
 
 export interface Site {
@@ -24,23 +33,39 @@ export interface Site {
   city: string;
   state: string;
   mailbox: string;
-  dematic_customer_id: string | number | null;
-  knapp_account: string | null;
+  dematic_customer_id: string;
+  knapp_account: string;
 }
 
-export interface Ticket {
+export interface SeedTicket {
   ticket_id: string;
-  vendor: string;
-  site: string;
+  vendor: "dematic" | "knapp" | "schaefer";
+  site_key: string;
   subject: string;
 }
 
-export type Confidence = 1.0 | 0.9 | 0.75 | 0.55 | null;
+export interface PriorityMapRow {
+  normalized: string;
+  rank: number;
+  dematic: string;
+  knapp: string;
+  schaefer: string;
+}
 
-export interface ExtractedField {
-  column: string;
-  value: string | null;
-  confidence: Confidence;
-  /** Character range in the raw message (subject + body) the value came from. */
-  span?: { part: "subject" | "body" | "to"; start: number; end: number };
+export interface StatusMapRow {
+  normalized: string;
+  dematic: string;
+  knapp: string;
+  schaefer: string;
+}
+
+export interface Seed {
+  generated: string;
+  emails: SeedEmail[];
+  sites: Site[];
+  tickets: SeedTicket[];
+  priority_map: PriorityMapRow[];
+  status_map: StatusMapRow[];
+  target_columns: string[];
+  attachment_example: { filename: string; doc_type: string; fields: Record<string, string> };
 }

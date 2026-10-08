@@ -12,8 +12,8 @@ import { buildTickets, CATEGORIES, type TicketRow } from "@/lib/pipeline";
 import { SITES } from "@/lib/seed";
 
 const C = { navy: "#0F2A4C", blue: "#2E7DA8", light: "#4BA1D0", line: "#CBD9E6", muted: "#7A8895", ink: "#2A3138" };
-const AXIS = { fontSize: 11, fill: C.ink, fontFamily: "var(--font-plex-sans)" };
-const TIP = { contentStyle: { border: `1px solid ${C.line}`, borderRadius: 0, fontSize: 12, fontFamily: "var(--font-plex-sans)" }, cursor: { fill: "#EEF4F8" } };
+const AXIS = { fontSize: 11, fill: C.ink, fontFamily: "IBM Plex Sans" };
+const TIP = { contentStyle: { border: `1px solid ${C.line}`, borderRadius: 0, fontSize: 12, fontFamily: "IBM Plex Sans" }, cursor: { fill: "#EEF4F8" } };
 
 function avgBy<K extends string>(tickets: TicketRow[], key: (t: TicketRow) => K | null) {
   const m = new Map<K, number[]>();
@@ -91,7 +91,7 @@ export default function Insights() {
                 <BarChart width={330} height={290} data={repeats} layout="vertical" margin={{ left: 0, right: 20, top: 4, bottom: 4 }}>
                   <CartesianGrid horizontal={false} stroke={C.line} />
                   <XAxis type="number" allowDecimals={false} tick={AXIS} stroke={C.line} />
-                  <YAxis type="category" dataKey="name" width={44} tick={{ ...AXIS, fontFamily: "var(--font-plex-mono)" }} stroke={C.line} />
+                  <YAxis type="category" dataKey="name" width={44} tick={{ ...AXIS, fontFamily: "IBM Plex Mono" }} stroke={C.line} />
                   <Tooltip {...TIP} />
                   <Legend wrapperStyle={{ fontSize: 11 }} />
                   <Bar dataKey="repeat" name="Same category as another ticket" stackId="a" fill={C.navy} isAnimationActive={false} />
@@ -145,7 +145,7 @@ export default function Insights() {
             {mounted && (
               <BarChart width={560} height={220} data={bySite} margin={{ left: 0, right: 20, top: 16, bottom: 4 }}>
                 <CartesianGrid vertical={false} stroke={C.line} />
-                <XAxis dataKey="name" tick={{ ...AXIS, fontFamily: "var(--font-plex-mono)" }} stroke={C.line} />
+                <XAxis dataKey="name" tick={{ ...AXIS, fontFamily: "IBM Plex Mono" }} stroke={C.line} />
                 <YAxis tick={AXIS} stroke={C.line} />
                 <Tooltip {...TIP} />
                 <Bar dataKey="hours" fill={C.light} isAnimationActive={false} maxBarSize={50}>

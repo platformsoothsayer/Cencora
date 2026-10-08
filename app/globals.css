@@ -11,8 +11,8 @@
   --color-muted: #7a8895;
   /* Amber is reserved: a decision Cencora has to make, or a failure. */
   --color-amber: #b57a00;
-  --font-sans: var(--font-plex-sans);
-  --font-mono: var(--font-plex-mono);
+  --font-sans: "IBM Plex Sans";
+  --font-mono: "IBM Plex Mono";
   --radius-sm: 2px;
   --radius: 2px;
   --radius-md: 2px;
@@ -27,7 +27,7 @@ html,
 body {
   background: #ffffff;
   color: #2a3138;
-  font-family: var(--font-plex-sans), system-ui, sans-serif;
+  font-family: "IBM Plex Sans", system-ui, sans-serif;
   font-size: 14px;
 }
 

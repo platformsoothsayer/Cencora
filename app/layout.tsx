@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Nav from "@/components/Nav";
 import { PipelineProvider } from "@/components/PipelineState";
 // Fonts are bundled rather than fetched from Google at build time, so the
@@ -22,9 +23,9 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     <html lang="en">
       <body className="min-h-screen antialiased">
         <header className="sticky top-0 z-30 flex h-12 items-center justify-between bg-navy px-5 text-white">
-          <div className="flex items-baseline gap-4">
-            <span className="text-[15px] font-semibold tracking-wide">Soothsayer</span>
-            <span className="h-4 w-px self-center bg-white/30" />
+          <div className="flex items-center gap-4">
+            <Image src="/soothsayer-logo.png" alt="Soothsayer Analytics" width={146} height={40} priority />
+            <span className="h-5 w-px bg-white/30" />
             <span className="text-[15px] font-medium">Hotline Email Processing</span>
           </div>
           <span className="rounded-full border border-lightblue bg-white px-3 py-0.5 text-[12px] font-medium text-navy">

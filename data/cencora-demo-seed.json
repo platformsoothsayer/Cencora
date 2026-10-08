@@ -1,0 +1,965 @@
+{
+ "generated": "2026-10-08",
+ "emails": [
+  {
+   "id": "RFI-01",
+   "source": "rfi",
+   "source_note": "Appendix A of the RFI, Dematic example",
+   "vendor": "Dematic",
+   "received": "2026-09-16T09:14:00Z",
+   "from_name": "Enrique Gracia",
+   "from_email": "enrique.gracia@dematic.com",
+   "to": "Phelps, Doug <doug.phelps@cencora.com>; VS Kansas City <VSKansasCity@cencora.com>",
+   "subject": "Customer ID 199960; Site:75% Full Indicator Issue; Ticket 11783918; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n  \t\n\t\nHello,  \n\nThe following comment has been added to your case:\n\nCase Comment:\n\nDoug, \n\nPlease sign the non-contract agreement as soon as you have a chance.\n\nThanks in advance.\n\nCase Number: 11783918\nCase Subject: 75% Full Indicator Issue\nCase Contact: Doug Phelps\nCustomer Location: AmerisourceBergen - Kansas City, MO\nCase Priority: 3\nCase Status: Responded\n\nCall Description: \n\n75% Full Indicator Issue, Site has CC-12 The Early Out Line 75% Full wording is always showing no matter the condition. Once it is truly 75% full, then it will not indicate it with yellow box flashing like the other lines. Same goes for 100% condition.",
+   "has_attachment": false,
+   "attachment": null
+  },
+  {
+   "id": "RFI-02",
+   "source": "rfi",
+   "source_note": "Appendix A of the RFI, KNAPP example",
+   "vendor": "KNAPP",
+   "received": "2026-09-16T11:02:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Phoenix <VSPhoenix@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1272144 ] - US00099 - RECOVERED - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n  \n\nTicket 1272144 was recovered.\t \nThe KNAPP ServiceDesk technicians have completed the investigation of your reported issue. \nThe ticket status was set to \"recovered\". However, further investigations may follow (by the customer and/or KNAPP). Once the case is definitely resolved, you will receive the final report shortly afterwards. \nPlease follow-up the next status of your inquiry in KNAPP e-insight  .\t \n \t \nTICKET SUMMARY\t \n \t \nKNAPP Ticket ID:\t 1272144\t \n \t \n- Ticket Type:\t ServiceDesk Incident\t \n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing. Please be aware that those tickets may be billed according to your contract, individual agreements, or underlying conditions and requirements.\t \n \t \n- Reported On:\t 11.11.2022 22:05:27 UTC\t \n- Recovered On:\t 11.11.2022 22:27:27 UTC\t \n\t(Eventual error handling on customer's side is not included in the processing time.)\t \n \t \nYour Reference Number:\t \t\n \t \nPriority:\t Immediate\n(Customer: 1 - Immediate / KNAPP: 1 - Immediate)\t \n \t \nIssue Description:\t Customer reports that the announcement scanner (AL03) is only announcing small totes that go past it, big totes don't even register. It's for ACS 2.\t \n \t \nCUSTOMER INFORMATION\t \n \t \nCustomer Account:\t US00099\t \n- Name:\t AmerisourceBergen Corporation\t \n- City:\t Phoenix\t \n \t \nIssue Reported By:\t Vinh Tran\t \n- Phone Number:\t +1 602-316-2688 / \t\n- Mail Address:\t vinh.tran@amerisourcebergen.com\t \n \t \nService Technician (if applicable):\t \t\n \t \nTo track your tickets and file new issues, we recommend using KNAPP e-insight: \nAndroid smartphone/tablet   | Apple iPhone/iPad   | Open web page  \t \nIf you have any further questions, please do not hesitate to contact us by phone or mail to servicedesk@knapp.com <mailto:servicedesk@knapp.com>  \n\nPlease quote your customer account (US00099) and the KNAPP ticket ID (1272144) for all inquiries. \n\nBest regards, \n\nKNAPP ServiceDesk \nCustomer Service \n----------------------------- \nKNAPP AG \nGuenter-Knapp-Str. 5-7 \n8075 Hart bei Graz, Austria \nservicedesk@knapp.com <mailto:servicedesk@knapp.com>  \nwww.KNAPP.com   \n----------------------------- \nCommercial register number: FN 168434y \nCommercial register court: Graz \n----------------------------- \nThe information in this e-mail (including any attachment) is confidential and intended to be for the use of the addressee(s) only. If you have received the e-mail by mistake, any disclosure, copy, distribution or use of the contents of the e-mail is prohibited, and you must delete the e-mail from your system. As e-mail can be changed electronically KNAPP assumes no responsibility for any alteration to this e-mail or its attachments. KNAPP has taken every reasonable precaution to ensure that any attachment to this e-mail has been swept for virus. However, KNAPP does not accept any liability for damage sustained as a result of such attachment being virus infected and strongly recommend that you carry out your own virus check before opening any attachment.",
+   "has_attachment": false,
+   "attachment": null
+  },
+  {
+   "id": "RFI-03",
+   "source": "rfi",
+   "source_note": "Appendix A of the RFI, SSI Schaefer example",
+   "vendor": "SSI Schaefer",
+   "received": "2026-09-17T07:48:00Z",
+   "from_name": "noreply@salesforce.com",
+   "from_email": "noreply@salesforce.com",
+   "to": "VS Richmond <VSRichmond@cencora.com>; Harper, Michael <michael.harper@cencora.com>",
+   "subject": "A new Case was submitted (01278974)",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n  \t\n\t\nDear customer,\n\nwe have accepted your Service inquiry and already transferred it to our Support.\n\nTicket-ID: 01278974\n\nProject: AMERISOURCE BERGEN\n\nContact: Michael Harper\n\nPrio: C\n\nDescription: order start is releasing totes when the host has not sent a message allowing them to be released.\n\nYour inquiry will be put in solving progress from now on.\n\nPlease note the ticket ID. In case you have any questions this reference id will be helpful for us.\n\nThank you very much and best regards,  Customer Service",
+   "has_attachment": false,
+   "attachment": null
+  },
+  {
+   "id": "RFI-04",
+   "source": "rfi",
+   "source_note": "Appendix A of the RFI, reply from Cencora to KNAPP",
+   "vendor": "Cencora reply",
+   "received": "2026-09-17T14:31:00Z",
+   "from_name": "Tran, Vinh",
+   "from_email": "vinh.tran@cencora.com",
+   "to": "servicedesk@knapp.com; VS Phoenix <VSPhoenix@cencora.com>",
+   "subject": "RE: [ Ticket: 1298587 ] US00099 I need  to see the windows for the PPI on the X product.",
+   "body": "The XP-Detection is being triggered, when either the upper light gate is interrupted, or if the lower light gate is interrupted for a longer distance than the configured parameter for \"cleat_width\" in the ACS config.  Can we set the condition to \u201cIF BOTH LIGHT GATE TRIGGER\u201d for the X-Products Alarm to be active?\n\nAs the central belt cleats trigger the lower light gate when they pass, the software ignores any interruptions of the lower light gate, which are shorter than the configured threshold, usually the actual cleat width + 15mm.\nIn your case, the cleat width is currently configured at 30mm.\n\n> KSCPConfigurator3 printAll acs_config.kscp | grep -i cleat_width\n/CONTROL/Single_Multiline/HAS_XPRODUCT_DETECT/XPRODUCT_CLEAT_WIDTH/ = '30'\n<09:39-Thu Mar 09>-<-bash-0>-<knapp @ AUT1 @ ABDC Phoenix>-</etc/knapp/acs>\n\nThe length of a detected XProduct is being determined by the amount of pulses of the central belt it is being detected for. The pulse length for your central belt has been measured to be 2.002489mm, which means the XProduct detection is triggered,\nwhenever the lower light gate is interrupted for more than 15 pulses of the central belt.\n\n> KSCPConfigurator3 printAll acs_config.kscp | grep -i pulse_length\n/CORE/ORDERWINDOWCALCULATOR/SYSTEM/PULSE_LENGTH/ = '2.002489'\n<09:46-Thu Mar 09>-<-bash-0>-<knapp @ AUT1 @ ABDC Phoenix>-</etc/knapp/acs>\n\nWe could in theory increase the configured cleat width and therefore make the XProduct detection less precise, but the downside are possible false negatives, which would lead to customers potentially receiving extra or too few products with their order.\nYou mentioned earlier that the medication leaflets, which get stuck on the belt, are much smaller than the dimensions of your actual products, but this is only the case if you expect the product to always lay flat on the belt.\nIf, for example, a rater flat cubic product lies half on a cleat, and therefore on one corner on the bottom of the belt, it makes sense that the XP detection is very precise,\nbecause in such an instance the product might not be detected if we increase the configured cleat width.\n\nAs we have discussed earlier, it makes sense that the belt stops for every detected leaflet, so your staff can remove it right away, instead of having those leaflets accumulate on the belt, which would most definitely lead to more issues down the road.\nAlso pssible would be to deactivate the \"stop on xproduct error\" option, so the belt will not stop with an alarm for every detected XP, and tagged totes would go to the manual check station. In this case you would have to clean the central belt of any stuck leaflets regularly (once a week f.e.).\n\nIn the end it will have to be determined by you if you prefer the XP detection to be less precise, and therefore accept a higher risk of false negative detection, if you want to \"stop on xp\" alarm to be disabled,\nor if you want to keep it as it is (probably the safest option when it comes to quality control and maintenance of the central belt in my opinion).\nI hope this answers you questions! If you want to discuss possible changes in detail, please don't hesitate to give us a call. The ticket moves onto status \"Waiting for customer response\" until I hear from you again. Please get in touch with us once you have made a decision on how to proceed.\n\nBest regards\n\n \n\n  \n______________________ \n\nMit freundlichen Gr\u00fc\u00dfen | With best regards | Cordiali saluti | Cordialement | Saludos cordiales | Atenciosamente | \u6700\u8bda\u631a\u7684\u95ee\u5019 | \u0421 \u0443\u0432\u0430\u0436\u0435\u043d\u0438\u0435\u043c \n\nAndreas Grie\u00dfer\nKNAPP Service Desk\n\nKNAPP AG\nGuenter-Knapp-Str. 5-7 \n8075 Hart bei Graz, Austria \nPhone: +43 50495 \u2013 <YourCode>\n\nservicedesk@knapp.com\n<mailto:servicedesk@knapp.com> www.knapp.com  \n\nCommercial register number: FN 168434y \nCommercial register court: Graz \n\nThe information in this e-mail (including any attachment) is confidential and intended to be for the use of the addressee(s) only. If you have received the e-mail by mistake, any disclosure, copy, distribution or use of the contents of the e-mail is prohibited, and you must delete the e-mail from your system. As e-mail can be changed electronically KNAPP assumes no responsibility for any alteration to this e-mail or its attachments. KNAPP has taken every reasonable precaution to ensure that any attachment to this e-mail has been swept for virus. However, KNAPP does not accept any liability for damage sustained as a result of such attachment being virus infected and strongly recommends that you carry out your own virus check before opening any attachment. Information in connection with our handling of personal data can be found here  . \n\nWhen sending an e-mail to servicedesk@knapp.com <mailto:servicedesk@knapp.com> , please remember to always state your customer code and the ticket number (if applicable). Thank you!",
+   "has_attachment": false,
+   "attachment": null
+  },
+  {
+   "id": "RFI-05",
+   "source": "rfi",
+   "source_note": "Appendix A of the RFI, reply from Cencora to Dematic",
+   "vendor": "Cencora reply",
+   "received": "2026-09-18T02:19:00Z",
+   "from_name": "Abdullai, Benny",
+   "from_email": "benny.abdullai@cencora.com",
+   "to": "Alexis Reed <alexis.reed@dematic.com>; Navis, Scott <snavis@cencora.com>; VS Chicago <VSChicago@cencora.com>",
+   "subject": "RE: Customer ID 201331; Site:Issues with faulting out with totes; Ticket 11840903; Update",
+   "body": "Alexis, \n\n \n\nAre you on the call with Scott right now?\n\n \n\nI\u2019m creating a teams meeting/call so we can all get on the call. I need your email or who ever is on the call. \n\n \n\nThanks, \n\n \n\nBenny Abdullai\n\nAmerisourceBergen\n\nManager, Asset Management & Reliability Engineering\n\nRomeoville DC\n\n \n\n1001 W Taylor Rd\n\nRomeoville, IL, 60446\n\n \n\nOffice:    815-221-3602\n\nMobile:  708-205-1715\n\n \n\n \n\n \n\nFrom: Alexis Reed <alexis.reed@dematic.com> \nSent: Tuesday, March 7, 2023 9:43 PM\nTo: Navis, Scott <SNavis@amerisourcebergen.com>; VS Chicago <VSChicago@amerisourcebergen.com>\nSubject: Customer ID 201331; Site:Issues with faulting out with totes; Ticket 11840903; Update\n\n \n\nCAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\n  \n\n\t\n\nDear Valued Customer:\n\n \n\nThank you for contacting Dematic Technical Support.  The Case number 11840903 has been opened and assigned to your 3/7/2023 request. For further inquiries on this topic, please reference this case number.\n\n \n\n \n\nCustomer Location: \n\n201331, AmerisourceBergen - Romeoville, IL\n\n \n\nCustomer Contact:\n\nScott Navis\n\n \n\nCreated By: \n\nAlexis Reed on 3/7/2023\n\n \n\nCategory:  \n\nElectrical.\n\n \n\nPriority:  2\n\nSystem partially down \n\n \n\nCall Description:   \n\nIssues with faulting out with totes, 6 scanners faulting out at once issues with totes. 80% of production being affected. \n\n \n\n \n\nThank you for your continued business.\n\n \n\nFor additional details:\n\nCall:  800-530-9153\n\nEmail:  TechSupport-US@Dematic.com <mailto:TechSupport-US@Dematic.com> \n\nTechTalk:  https://dematic-support.force.com/support/login\n\nPortal Signup:  www.Dematic.com/Portal-Access <http://www.Dematic.com/Portal-Access> \n\n \n\nLearn about our newest support products:\n\nhttp://www.dematic.com/en-us/services/customer-services/\n\n \n\n \n\n \n\n \n\n \n\n \n\nRef: Open",
+   "has_attachment": false,
+   "attachment": null
+  },
+  {
+   "id": "RFI-06",
+   "source": "rfi",
+   "source_note": "Appendix C of the RFI, the only example with an attachment",
+   "vendor": "KNAPP",
+   "received": "2026-09-18T08:05:00Z",
+   "from_name": "rfc MANAGEMENT",
+   "from_email": "rfc.management@knapp.com",
+   "to": "VS Indianapolis <VSIndianapolis@cencora.com>",
+   "subject": "US00101_RfC40452_2023-02-02_ABC AMERISOURCE BERGEN_DECANT STATIONS FROZEN REPAIRED GUIDO EXECEPTIONS",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nDear All,\n\n \n\nPlease find enclosed the notification for a Change Request! We kindly ask you to contact the Service Desk to fix date and time for the implementation. \n\n \n\nWe accept dates in the following fixed period:\n\n \n\nMonday to Thursday between 8.00 a.m. and 4.30 p.m. CET\n\n \n\nWe only accept appointments that are announced at least 3 working days in advance.\n\nPlease consider that appointments are only valid after a written confirmation from the responsible Service Desk department.\n\nFurthermore we would be grateful if you could provide at least two alternate dates in order to make coordination easier for us.\n\n \n\nThis Change Request will be on hold for four weeks. After this period it will be closed. \n\nOf course it can be recreated any time if required.\n\n \n\nMay we ask you to pass this document on to the responsible staff?\n\n \n\nPlease do not hesitate to call us if you require any further information.\n\n \n\n \n\nMit freundlichen Gr\u00fc\u00dfen / Best regards / Atentamente / \u0421 \u0443\u0432\u0430\u0436\u0435\u043d\u0438\u0435\u043c / Met vriendelijke groet,\n\n \n\nMaria Harzl\n\n \n\nRfC Coordinator\n\n \n\n KNAPP AG\nGuenter-Knapp-Str. 5-7                   \n8075 Hart bei Graz, Austria                    \n  rfc.management@knapp.com <mailto:rfc.management@knapp.com> \n\n \n\nwww.knapp.com  \n\n \n\nCommercial register number: FN 168434y \nCommercial register court: Graz \nDVR: 0384861\n\nThe information in this e-mail (including any attachment) is confidential and intended to be for the use of the addressee(s) only. If you have received the e-mail by mistake, any disclosure, copy, distribution or use of the contents of the e-mail is prohibited, and you must delete the e-mail from your system. As e-mail can be changed electronically KNAPP assumes no responsibility for any alteration to this e-mail or its attachments. KNAPP has taken every reasonable precaution to ensure that any attachment to this e-mail has been swept for virus. However, KNAPP does not accept any liability for damage sustained as a result of such attachment being virus infected and strongly recommends that you carry out your own virus check before opening any attachment. Information in connection with our handling of personal data can be found here  .",
+   "has_attachment": true,
+   "attachment": {
+    "filename": "US00101_RfC40452_2023-02-02_DECANT_STATIONS_FROZEN.pdf",
+    "doc_type": "Request for Change"
+   }
+  },
+  {
+   "id": "SYN-0001",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-15T09:00:00Z",
+   "from_name": "Alexis Reed",
+   "from_email": "alexis.reed@dematic.com",
+   "to": "VS Romeoville <VSChicago@cencora.com>",
+   "subject": "Customer ID 201331; Site:Shipping sorter diverting to jackpot; Ticket 11860169; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nCase opened and assigned. Reviewing tracking data from the sorter.\n\nCase Number: 11860169\nCase Subject: Shipping sorter diverting to jackpot\nCase Contact: Scott Navis\nCustomer Location: Cencora - Romeoville, IL\nCase Priority: 3\nCase Status: Open\n\n\nCall Description:\n\n\nShipping sorter diverting to jackpot, Shipping sorter when it goes into 100 percent full condition and restarts, totes on the last section of servo belt past the scanner array lose position and divert to jackpot. Tote IDs 00021808581, 00021743077.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0002",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-16T04:00:00Z",
+   "from_name": "Thomas Huffman",
+   "from_email": "thomas.huffman@dematic.com",
+   "to": "VS Romeoville <VSChicago@cencora.com>",
+   "subject": "Customer ID 201331; Site:Shipping sorter diverting to jackpot; Ticket 11860169; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nPulled tracking report. Lost loads at 0.08 percent, which does not explain the diverts. Looking at Sort Director dispatch.\n\nCase Number: 11860169\nCase Subject: Shipping sorter diverting to jackpot\nCase Contact: Scott Navis\nCustomer Location: Cencora - Romeoville, IL\nCase Priority: 3\nCase Status: Researching\n\n\nCall Description:\n\n\nShipping sorter diverting to jackpot, Shipping sorter when it goes into 100 percent full condition and restarts, totes on the last section of servo belt past the scanner array lose position and divert to jackpot. Tote IDs 00021808581, 00021743077.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0003",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-17T05:00:00Z",
+   "from_name": "River Shelton",
+   "from_email": "river.shelton@dematic.com",
+   "to": "VS Romeoville <VSChicago@cencora.com>",
+   "subject": "Customer ID 201331; Site:Shipping sorter diverting to jackpot; Ticket 11860169; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nAdjusted divert confirm window. Site to monitor across two shifts.\n\nCase Number: 11860169\nCase Subject: Shipping sorter diverting to jackpot\nCase Contact: Scott Navis\nCustomer Location: Cencora - Romeoville, IL\nCase Priority: 3\nCase Status: Solution Evaluation\n\n\nCall Description:\n\n\nShipping sorter diverting to jackpot, Shipping sorter when it goes into 100 percent full condition and restarts, totes on the last section of servo belt past the scanner array lose position and divert to jackpot. Tote IDs 00021808581, 00021743077.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0004",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-19T09:00:00Z",
+   "from_name": "Matthew Smith",
+   "from_email": "matthew.f.smith@dematic.com",
+   "to": "VS Romeoville <VSChicago@cencora.com>",
+   "subject": "Customer ID 201331; Site:Shipping sorter diverting to jackpot; Ticket 11860169; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nNo recurrence across two shifts. Closing the case.\n\nCase Number: 11860169\nCase Subject: Shipping sorter diverting to jackpot\nCase Contact: Scott Navis\nCustomer Location: Cencora - Romeoville, IL\nCase Priority: 3\nCase Status: Closed\n\n\nCall Description:\n\n\nShipping sorter diverting to jackpot, Shipping sorter when it goes into 100 percent full condition and restarts, totes on the last section of servo belt past the scanner array lose position and divert to jackpot. Tote IDs 00021808581, 00021743077.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0005",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-15T22:00:00Z",
+   "from_name": "Ben Parks",
+   "from_email": "ben.parks@dematic.com",
+   "to": "VS Des Moines <VSSeattle@cencora.com>",
+   "subject": "Customer ID 217502; Site:Motor fault on bed 303822; Ticket 11860280; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nSpoke with site over the phone. Logging on to locate the cabinet and pull drawings.\n\nCase Number: 11860280\nCase Subject: Motor fault on bed 303822\nCase Contact: Patrick Champagne\nCustomer Location: Cencora - Des Moines, WA\nCase Priority: 2\nCase Status: Open\n\n\nCall Description:\n\n\nMotor fault on bed 303822, Blown motor replaced last night along with the motor starter. On restart the motor spins but nothing engages and the housing warms. Forward overload and cooling error on the PVP box. Last spare motor, critical section.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0006",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-16T04:00:00Z",
+   "from_name": "Darius Pleasant",
+   "from_email": "darius.pleasant@dematic.com",
+   "to": "VS Des Moines <VSSeattle@cencora.com>",
+   "subject": "Customer ID 217502; Site:Motor fault on bed 303822; Ticket 11860280; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nSite technicians replaced the motor starter during the investigation and report the issue resolved. Holding the case open 24 hours.\n\nCase Number: 11860280\nCase Subject: Motor fault on bed 303822\nCase Contact: Patrick Champagne\nCustomer Location: Cencora - Des Moines, WA\nCase Priority: 2\nCase Status: Solution Evaluation\n\n\nCall Description:\n\n\nMotor fault on bed 303822, Blown motor replaced last night along with the motor starter. On restart the motor spins but nothing engages and the housing warms. Forward overload and cooling error on the PVP box. Last spare motor, critical section.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0007",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-17T06:00:00Z",
+   "from_name": "Edwin Wood",
+   "from_email": "edwin.wood@dematic.com",
+   "to": "VS Des Moines <VSSeattle@cencora.com>",
+   "subject": "Customer ID 217502; Site:Motor fault on bed 303822; Ticket 11860280; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nNo recurrence reported. Case closed.\n\nCase Number: 11860280\nCase Subject: Motor fault on bed 303822\nCase Contact: Patrick Champagne\nCustomer Location: Cencora - Des Moines, WA\nCase Priority: 2\nCase Status: Closed\n\n\nCall Description:\n\n\nMotor fault on bed 303822, Blown motor replaced last night along with the motor starter. On restart the motor spins but nothing engages and the housing warms. Forward overload and cooling error on the PVP box. Last spare motor, critical section.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0008",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-16T09:00:00Z",
+   "from_name": "Enrique Gracia",
+   "from_email": "enrique.gracia@dematic.com",
+   "to": "VS Phoenix <VSPhoenix@cencora.com>",
+   "subject": "Customer ID 217555; Site:Photo eye timing changes; Ticket 11860435; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nRequest logged. Waiting for a callback from the site to schedule.\n\nCase Number: 11860435\nCase Subject: Photo eye timing changes\nCase Contact: Vinh Tran\nCustomer Location: Cencora - Phoenix, AZ\nCase Priority: 3\nCase Status: Open\n\n\nCall Description:\n\n\nPhoto eye timing changes, Site wants to change timing on photo eyes 402100, 402020 and 401920. Requesting a review of current timing and adjustment as necessary on CC-300 and CA-306.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0009",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-17T11:00:00Z",
+   "from_name": "Alexis Reed",
+   "from_email": "alexis.reed@dematic.com",
+   "to": "VS Phoenix <VSPhoenix@cencora.com>",
+   "subject": "Customer ID 217555; Site:Photo eye timing changes; Ticket 11860435; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nLeft message with the site contact. No response yet.\n\nCase Number: 11860435\nCase Subject: Photo eye timing changes\nCase Contact: Vinh Tran\nCustomer Location: Cencora - Phoenix, AZ\nCase Priority: 3\nCase Status: Waiting for Customer\n\n\nCall Description:\n\n\nPhoto eye timing changes, Site wants to change timing on photo eyes 402100, 402020 and 401920. Requesting a review of current timing and adjustment as necessary on CC-300 and CA-306.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0010",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-16T16:00:00Z",
+   "from_name": "Thomas Huffman",
+   "from_email": "thomas.huffman@dematic.com",
+   "to": "VS Corona <VSCorona@cencora.com>",
+   "subject": "Customer ID 206827; Site:Sort Director parameter change; Ticket 11860583; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nCase created from the site call.\n\nCase Number: 11860583\nCase Subject: Sort Director parameter change\nCase Contact: Marisol Ibarra\nCustomer Location: Cencora - Corona, CA\nCase Priority: 2\nCase Status: Open\n\n\nCall Description:\n\n\nSort Director parameter change, Modify the scanner untranslatable table parameter so it routes to lane 2481 instead of 290.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0011",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-16T20:00:00Z",
+   "from_name": "River Shelton",
+   "from_email": "river.shelton@dematic.com",
+   "to": "VS Corona <VSCorona@cencora.com>",
+   "subject": "Customer ID 206827; Site:Sort Director parameter change; Ticket 11860583; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nTSS issue identified, case transferred to the controls group.\n\nCase Number: 11860583\nCase Subject: Sort Director parameter change\nCase Contact: Marisol Ibarra\nCustomer Location: Cencora - Corona, CA\nCase Priority: 2\nCase Status: Responded\n\n\nCall Description:\n\n\nSort Director parameter change, Modify the scanner untranslatable table parameter so it routes to lane 2481 instead of 290.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0012",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-17T19:00:00Z",
+   "from_name": "Matthew Smith",
+   "from_email": "matthew.f.smith@dematic.com",
+   "to": "VS Corona <VSCorona@cencora.com>",
+   "subject": "Customer ID 206827; Site:Sort Director parameter change; Ticket 11860583; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nParameter updated and verified with the site. Closed.\n\nCase Number: 11860583\nCase Subject: Sort Director parameter change\nCase Contact: Marisol Ibarra\nCustomer Location: Cencora - Corona, CA\nCase Priority: 2\nCase Status: Closed\n\n\nCall Description:\n\n\nSort Director parameter change, Modify the scanner untranslatable table parameter so it routes to lane 2481 instead of 290.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0013",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-17T03:00:00Z",
+   "from_name": "Ben Parks",
+   "from_email": "ben.parks@dematic.com",
+   "to": "VS Kansas City <VSKansasCity@cencora.com>",
+   "subject": "Customer ID 199960; Site:75% full indicator issue; Ticket 11860773; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nPlease sign the non-contract agreement as soon as you have a chance.\n\nCase Number: 11860773\nCase Subject: 75% full indicator issue\nCase Contact: Doug Phelps\nCustomer Location: Cencora - Kansas City, MO\nCase Priority: 3\nCase Status: Responded\n\n\nCall Description:\n\n\n75% full indicator issue, CC-12 early out line shows the 75 percent full wording regardless of condition. When it is genuinely 75 percent full it does not flash the yellow box like the other lines. Same behaviour at 100 percent.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0014",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-17T15:00:00Z",
+   "from_name": "Darius Pleasant",
+   "from_email": "darius.pleasant@dematic.com",
+   "to": "VS Whitestown <VSIndianapolis@cencora.com>",
+   "subject": "Customer ID 211470; Site:Induction scanner no reads; Ticket 11860933; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nBridge call opened. Scanners reading but reporting bad barcodes on CC2.\n\nCase Number: 11860933\nCase Subject: Induction scanner no reads\nCase Contact: Kent Ward\nCustomer Location: Cencora - Whitestown, IN\nCase Priority: 1\nCase Status: Open\n\n\nCall Description:\n\n\nInduction scanner no reads, Six scanners faulting at once on the induct. Barcodes scan but the scanner reports them as bad. 80 percent of production affected.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0015",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-17T16:00:00Z",
+   "from_name": "Edwin Wood",
+   "from_email": "edwin.wood@dematic.com",
+   "to": "VS Whitestown <VSIndianapolis@cencora.com>",
+   "subject": "Customer ID 211470; Site:Induction scanner no reads; Ticket 11860933; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nAnnouncement scanner must read both sides of the tote. Verified both barcodes readable. Restarting Sort Director.\n\nCase Number: 11860933\nCase Subject: Induction scanner no reads\nCase Contact: Kent Ward\nCustomer Location: Cencora - Whitestown, IN\nCase Priority: 1\nCase Status: Responded\n\n\nCall Description:\n\n\nInduction scanner no reads, Six scanners faulting at once on the induct. Barcodes scan but the scanner reports them as bad. 80 percent of production affected.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0016",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-17T18:00:00Z",
+   "from_name": "Enrique Gracia",
+   "from_email": "enrique.gracia@dematic.com",
+   "to": "VS Whitestown <VSIndianapolis@cencora.com>",
+   "subject": "Customer ID 211470; Site:Induction scanner no reads; Ticket 11860933; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nInduct functioning after restart. Monitoring the rest of the building.\n\nCase Number: 11860933\nCase Subject: Induction scanner no reads\nCase Contact: Kent Ward\nCustomer Location: Cencora - Whitestown, IN\nCase Priority: 1\nCase Status: Solution Evaluation\n\n\nCall Description:\n\n\nInduction scanner no reads, Six scanners faulting at once on the induct. Barcodes scan but the scanner reports them as bad. 80 percent of production affected.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0017",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "received": "2026-09-18T11:00:00Z",
+   "from_name": "Alexis Reed",
+   "from_email": "alexis.reed@dematic.com",
+   "to": "VS Whitestown <VSIndianapolis@cencora.com>",
+   "subject": "Customer ID 211470; Site:Induction scanner no reads; Ticket 11860933; Update",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nHello,\n\nThe following comment has been added to your case:\n\nCase Comment:\n\nStable for a full shift. Software fix scheduled in the next release.\n\nCase Number: 11860933\nCase Subject: Induction scanner no reads\nCase Contact: Kent Ward\nCustomer Location: Cencora - Whitestown, IN\nCase Priority: 1\nCase Status: Closed\n\n\nCall Description:\n\n\nInduction scanner no reads, Six scanners faulting at once on the induct. Barcodes scan but the scanner reports them as bad. 80 percent of production affected.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0018",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-18T06:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Phoenix <VSPhoenix@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310415 ] - US00099 - CREATED - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310415 was created.\nThe KNAPP ServiceDesk created a ticket for your inquiry. Our technicians will investigate the issue in detail and will update you on the latest status of analysis.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310415\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 18.09.2026 06:00:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Immediate\n(Customer: 1 - Immediate / KNAPP: 1 - Immediate)\n\nIssue Description:\t Customer reports that the announcement scanner AL03 is only announcing small totes that pass it. Large totes do not register. This is for ACS 2.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00099\n- Name:\t Cencora Corporation\n- City:\t Phoenix\n\nIssue Reported By:\t Vinh Tran\n- Phone Number:\t +1 602-316-2688 /\t\n- Mail Address:\t vinh.tran@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0019",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-18T06:24:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Phoenix <VSPhoenix@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310415 ] - US00099 - RECOVERED - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310415 was recovered.\nThe KNAPP ServiceDesk technicians have completed the investigation of your reported issue. The ticket status was set to \"recovered\". However, further investigations may follow.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310415\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 18.09.2026 06:00:00 UTC\n- Recovered On:\t 18.09.2026 06:46:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Immediate\n(Customer: 1 - Immediate / KNAPP: 1 - Immediate)\n\nIssue Description:\t Customer reports that the announcement scanner AL03 is only announcing small totes that pass it. Large totes do not register. This is for ACS 2.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00099\n- Name:\t Cencora Corporation\n- City:\t Phoenix\n\nIssue Reported By:\t Vinh Tran\n- Phone Number:\t +1 602-316-2688 /\t\n- Mail Address:\t vinh.tran@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0020",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-18T15:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Des Moines <VSSeattle@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310463 ] - US00098 - CREATED - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310463 was created.\nThe KNAPP ServiceDesk created a ticket for your inquiry. Our technicians will investigate the issue in detail and will update you on the latest status of analysis.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310463\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 18.09.2026 15:00:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Urgent\n(Customer: 2 - Urgent / KNAPP: 2 - Urgent)\n\nIssue Description:\t Process is frozen, LLM 3 in error. Site tried to restart but the unit does not react.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00098\n- Name:\t Cencora Corporation\n- City:\t Des Moines\n\nIssue Reported By:\t Patrick Champagne\n- Phone Number:\t +1 206-575-3343 /\t\n- Mail Address:\t patrick.champagne@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0021",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-19T05:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Des Moines <VSSeattle@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310463 ] - US00098 - WAITING FOR CUSTOMER RESPONSE - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310463 was set to \"waiting for customer response (INC)\".\nThe KNAPP ServiceDesk is waiting for feedback and/or additional information from your side to be able to continue the work on this ticket.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310463\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 18.09.2026 15:00:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Urgent\n(Customer: 2 - Urgent / KNAPP: 2 - Urgent)\n\nIssue Description:\t Process is frozen, LLM 3 in error. Site tried to restart but the unit does not react.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00098\n- Name:\t Cencora Corporation\n- City:\t Des Moines\n\nIssue Reported By:\t Patrick Champagne\n- Phone Number:\t +1 206-575-3343 /\t\n- Mail Address:\t patrick.champagne@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0022",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-21T04:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Des Moines <VSSeattle@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310463 ] - US00098 - RECOVERED - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310463 was recovered.\nThe KNAPP ServiceDesk technicians have completed the investigation of your reported issue. The ticket status was set to \"recovered\". However, further investigations may follow.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310463\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 18.09.2026 15:00:00 UTC\n- Recovered On:\t 21.09.2026 04:22:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Urgent\n(Customer: 2 - Urgent / KNAPP: 2 - Urgent)\n\nIssue Description:\t Process is frozen, LLM 3 in error. Site tried to restart but the unit does not react.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00098\n- Name:\t Cencora Corporation\n- City:\t Des Moines\n\nIssue Reported By:\t Patrick Champagne\n- Phone Number:\t +1 206-575-3343 /\t\n- Mail Address:\t patrick.champagne@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0023",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-19T02:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Newburgh <VSNewburgh@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310502 ] - US00095 - CREATED - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310502 was created.\nThe KNAPP ServiceDesk created a ticket for your inquiry. Our technicians will investigate the issue in detail and will update you on the latest status of analysis.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310502\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 19.09.2026 02:00:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Low\n(Customer: 4 - Low / KNAPP: 4 - Low)\n\nIssue Description:\t In the vault before 18:55 eastern approximately thirteen transfer totes went to shipping with no lid, no label and no paperwork.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00095\n- Name:\t Cencora Corporation\n- City:\t Newburgh\n\nIssue Reported By:\t Raymond Storms\n- Phone Number:\t +1 845-245-2883 /\t\n- Mail Address:\t raymond.storms@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0024",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-20T09:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Newburgh <VSNewburgh@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310502 ] - US00095 - WAITING FOR CUSTOMER RESPONSE - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310502 was set to \"waiting for customer response (INC)\".\nThe KNAPP ServiceDesk is waiting for feedback and/or additional information from your side to be able to continue the work on this ticket.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310502\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 19.09.2026 02:00:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Low\n(Customer: 4 - Low / KNAPP: 4 - Low)\n\nIssue Description:\t In the vault before 18:55 eastern approximately thirteen transfer totes went to shipping with no lid, no label and no paperwork.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00095\n- Name:\t Cencora Corporation\n- City:\t Newburgh\n\nIssue Reported By:\t Raymond Storms\n- Phone Number:\t +1 845-245-2883 /\t\n- Mail Address:\t raymond.storms@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0025",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-19T14:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Olive Branch <VSMemphis@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310562 ] - US00094 - CREATED - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310562 was created.\nThe KNAPP ServiceDesk created a ticket for your inquiry. Our technicians will investigate the issue in detail and will update you on the latest status of analysis.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310562\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 19.09.2026 14:00:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Immediate\n(Customer: 1 - Immediate / KNAPP: 2 - Immediate)\n\nIssue Description:\t Pick it easy station 3 shows red triangles. Cabinet reboot did not clear it. Possible hung process, PLC dropped but now reports healthy.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00094\n- Name:\t Cencora Corporation\n- City:\t Olive Branch\n\nIssue Reported By:\t Stephen Rogers\n- Phone Number:\t +1 901-579-9619 /\t\n- Mail Address:\t stephen.rogers@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0026",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-19T23:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Olive Branch <VSMemphis@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310562 ] - US00094 - RECOVERED - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310562 was recovered.\nThe KNAPP ServiceDesk technicians have completed the investigation of your reported issue. The ticket status was set to \"recovered\". However, further investigations may follow.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310562\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 19.09.2026 14:00:00 UTC\n- Recovered On:\t 19.09.2026 23:22:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Immediate\n(Customer: 1 - Immediate / KNAPP: 2 - Immediate)\n\nIssue Description:\t Pick it easy station 3 shows red triangles. Cabinet reboot did not clear it. Possible hung process, PLC dropped but now reports healthy.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00094\n- Name:\t Cencora Corporation\n- City:\t Olive Branch\n\nIssue Reported By:\t Stephen Rogers\n- Phone Number:\t +1 901-579-9619 /\t\n- Mail Address:\t stephen.rogers@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0027",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-22T15:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Olive Branch <VSMemphis@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310562 ] - US00094 - Attached your Final Report - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310562 final report issued.\nPlease find attached the KNAPP ServiceDesk Final Report for this ticket. We kindly ask you to pass this document on to the responsible staff.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310562\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 19.09.2026 14:00:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Immediate\n(Customer: 1 - Immediate / KNAPP: 1 - Immediate)\n\nIssue Description:\t Pick it easy station 3 shows red triangles. Cabinet reboot did not clear it. Possible hung process, PLC dropped but now reports healthy.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00094\n- Name:\t Cencora Corporation\n- City:\t Olive Branch\n\nIssue Reported By:\t Stephen Rogers\n- Phone Number:\t +1 901-579-9619 /\t\n- Mail Address:\t stephen.rogers@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": true,
+   "attachment": {
+    "filename": "US00094_FinalReport_1310562.pdf",
+    "doc_type": "Final Report"
+   },
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0028",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-19T21:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Buford <VSAtlanta@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310589 ] - US00100 - CREATED - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310589 was created.\nThe KNAPP ServiceDesk created a ticket for your inquiry. Our technicians will investigate the issue in detail and will update you on the latest status of analysis.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310589\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 19.09.2026 21:00:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Immediate\n(Customer: 1 - Immediate / KNAPP: 1 - Immediate)\n\nIssue Description:\t LLM1 is giving constant lid retainer error messages. Messages include irregular lid stack and misaligned lid. Main one is lid retainer error.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00100\n- Name:\t Cencora Corporation\n- City:\t Buford\n\nIssue Reported By:\t Knowledge Foote\n- Phone Number:\t +1 404-416-6481 /\t\n- Mail Address:\t knowledge.foote@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0029",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-20T03:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Buford <VSAtlanta@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310589 ] - US00100 - RECOVERED - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310589 was recovered.\nThe KNAPP ServiceDesk technicians have completed the investigation of your reported issue. The ticket status was set to \"recovered\". However, further investigations may follow.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310589\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 19.09.2026 21:00:00 UTC\n- Recovered On:\t 20.09.2026 03:22:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Immediate\n(Customer: 1 - Immediate / KNAPP: 1 - Immediate)\n\nIssue Description:\t LLM1 is giving constant lid retainer error messages. Messages include irregular lid stack and misaligned lid. Main one is lid retainer error.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00100\n- Name:\t Cencora Corporation\n- City:\t Buford\n\nIssue Reported By:\t Knowledge Foote\n- Phone Number:\t +1 404-416-6481 /\t\n- Mail Address:\t knowledge.foote@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0030",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-21T21:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Buford <VSAtlanta@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310589 ] - US00100 - Attached your Final Report - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310589 final report issued.\nPlease find attached the KNAPP ServiceDesk Final Report for this ticket. We kindly ask you to pass this document on to the responsible staff.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310589\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 19.09.2026 21:00:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Immediate\n(Customer: 1 - Immediate / KNAPP: 2 - Immediate)\n\nIssue Description:\t LLM1 is giving constant lid retainer error messages. Messages include irregular lid stack and misaligned lid. Main one is lid retainer error.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00100\n- Name:\t Cencora Corporation\n- City:\t Buford\n\nIssue Reported By:\t Knowledge Foote\n- Phone Number:\t +1 404-416-6481 /\t\n- Mail Address:\t knowledge.foote@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": true,
+   "attachment": {
+    "filename": "US00100_FinalReport_1310589.pdf",
+    "doc_type": "Final Report"
+   },
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0031",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-20T07:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Whitestown <VSIndianapolis@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310608 ] - US00101 - CREATED - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310608 was created.\nThe KNAPP ServiceDesk created a ticket for your inquiry. Our technicians will investigate the issue in detail and will update you on the latest status of analysis.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310608\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 20.09.2026 07:00:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Normal\n(Customer: 3 - Normal / KNAPP: 3 - Normal)\n\nIssue Description:\t Since RFC 36607 was installed this morning the site has had several shuttle errors. Aisle 3 shuttle 11 reports timeout in movement and is the main unit affected.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00101\n- Name:\t Cencora Corporation\n- City:\t Whitestown\n\nIssue Reported By:\t Kent Ward\n- Phone Number:\t +1 765-535-8713 /\t\n- Mail Address:\t kent.ward@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0032",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "received": "2026-09-21T01:00:00Z",
+   "from_name": "KNAPP Servicedesk",
+   "from_email": "servicedesk@knapp.com",
+   "to": "VS Whitestown <VSIndianapolis@cencora.com>",
+   "subject": "KNAPP [ Ticket: 1310608 ] - US00101 - WAITING FOR CUSTOMER RESPONSE - ##",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nTicket 1310608 was set to \"waiting for customer response (INC)\".\nThe KNAPP ServiceDesk is waiting for feedback and/or additional information from your side to be able to continue the work on this ticket.\nPlease follow-up the next status of your inquiry in KNAPP e-insight .\n\nTICKET SUMMARY\n\nKNAPP Ticket ID:\t 1310608\n\n- Ticket Type:\t ServiceDesk Incident\n\tNOTE: Some tickets (e.g. Service Request) can be subject to individual invoicing.\n\n- Reported On:\t 20.09.2026 07:00:00 UTC\n\nYour Reference Number:\t \t\n\nPriority:\t Normal\n(Customer: 3 - Normal / KNAPP: 3 - Normal)\n\nIssue Description:\t Since RFC 36607 was installed this morning the site has had several shuttle errors. Aisle 3 shuttle 11 reports timeout in movement and is the main unit affected.\n\nCUSTOMER INFORMATION\n\nCustomer Account:\t US00101\n- Name:\t Cencora Corporation\n- City:\t Whitestown\n\nIssue Reported By:\t Kent Ward\n- Phone Number:\t +1 765-535-8713 /\t\n- Mail Address:\t kent.ward@cencora.com\n\nService Technician (if applicable):\t \n\nTo track your tickets and file new issues, we recommend using KNAPP e-insight.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0033",
+   "source": "synthesized",
+   "vendor": "SSI Schaefer",
+   "received": "2026-09-21T00:00:00Z",
+   "from_name": "SSI no-reply",
+   "from_email": "ssi-sf-noreply@ssi-schaefer.com",
+   "to": "VS Richmond <VSRichmond@cencora.com>",
+   "subject": "A new Case was submitted (01290119)",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nDear customer,\n\nwe have accepted your Service inquiry and already transferred it to our Support.\n\nTicket-ID: 01290119\n\nProject: CENCORA\n\nContact: Michael Harper\n\nPrio: C\n\nDescription: Order start is releasing totes when the host has not sent a message allowing them to be released.\n\n\nYour inquiry will be put in solving progress from now on.\n\nPlease note the ticket ID. In case you have any questions this reference id will be helpful for us.\n\nThank you very much and best regards,  Customer Service\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0034",
+   "source": "synthesized",
+   "vendor": "SSI Schaefer",
+   "received": "2026-09-21T22:00:00Z",
+   "from_name": "SSI no-reply",
+   "from_email": "ssi-sf-noreply@ssi-schaefer.com",
+   "to": "VS Richmond <VSRichmond@cencora.com>",
+   "subject": "Case 01290119 has been updated",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nDear customer,\n\nthe status of your Service inquiry has been updated by our Support team.\n\nTicket-ID: 01290119\n\nProject: CENCORA\n\nContact: Michael Harper\n\nPrio: C\n\nDescription: Order start is releasing totes when the host has not sent a message allowing them to be released.\n\n\nYour inquiry will be put in solving progress from now on.\n\nPlease note the ticket ID. In case you have any questions this reference id will be helpful for us.\n\nThank you very much and best regards,  Customer Service\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0035",
+   "source": "synthesized",
+   "vendor": "SSI Schaefer",
+   "received": "2026-09-21T10:00:00Z",
+   "from_name": "SSI no-reply",
+   "from_email": "ssi-sf-noreply@ssi-schaefer.com",
+   "to": "VS Romeoville <VSChicago@cencora.com>",
+   "subject": "A new Case was submitted (01290146)",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nDear customer,\n\nwe have accepted your Service inquiry and already transferred it to our Support.\n\nTicket-ID: 01290146\n\nProject: CENCORA\n\nContact: Scott Navis\n\nPrio: B\n\nDescription: Tray lift at the transfer deck has stopped and reports a position fault. Manual recovery did not clear the fault.\n\n\nYour inquiry will be put in solving progress from now on.\n\nPlease note the ticket ID. In case you have any questions this reference id will be helpful for us.\n\nThank you very much and best regards,  Customer Service\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0036",
+   "source": "synthesized",
+   "vendor": "SSI Schaefer",
+   "received": "2026-09-21T19:00:00Z",
+   "from_name": "SSI no-reply",
+   "from_email": "ssi-sf-noreply@ssi-schaefer.com",
+   "to": "VS Romeoville <VSChicago@cencora.com>",
+   "subject": "Case 01290146 has been updated",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nDear customer,\n\nthe status of your Service inquiry has been updated by our Support team.\n\nTicket-ID: 01290146\n\nProject: CENCORA\n\nContact: Scott Navis\n\nPrio: B\n\nDescription: Tray lift at the transfer deck has stopped and reports a position fault. Manual recovery did not clear the fault.\n\n\nYour inquiry will be put in solving progress from now on.\n\nPlease note the ticket ID. In case you have any questions this reference id will be helpful for us.\n\nThank you very much and best regards,  Customer Service\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-0037",
+   "source": "synthesized",
+   "vendor": "SSI Schaefer",
+   "received": "2026-09-21T21:00:00Z",
+   "from_name": "SSI no-reply",
+   "from_email": "ssi-sf-noreply@ssi-schaefer.com",
+   "to": "VS Buford <VSAtlanta@cencora.com>",
+   "subject": "A new Case was submitted (01290162)",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nDear customer,\n\nwe have accepted your Service inquiry and already transferred it to our Support.\n\nTicket-ID: 01290162\n\nProject: CENCORA\n\nContact: Knowledge Foote\n\nPrio: C\n\nDescription: Carton erector on line 4 jams approximately every twenty cycles. Suspect the vacuum cup assembly.\n\n\nYour inquiry will be put in solving progress from now on.\n\nPlease note the ticket ID. In case you have any questions this reference id will be helpful for us.\n\nThank you very much and best regards,  Customer Service\n",
+   "has_attachment": false,
+   "attachment": null,
+   "source_note": "Synthesized in the same template as the RFI example"
+  },
+  {
+   "id": "SYN-9001",
+   "source": "synthesized",
+   "vendor": "Dematic",
+   "source_note": "Template drift. Dematic has renamed three labels in this message.",
+   "received": "2026-09-26T04:12:00Z",
+   "from_name": "Dematic Support",
+   "from_email": "support.notifications@dematic.com",
+   "to": "VS Romeoville <VSChicago@cencora.com>",
+   "subject": "[Dematic Service] Case 11861904 updated - Romeoville",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nCase update notification\n\nReference: 11861904\nSummary: Merge conveyor photo eye intermittent\nReported by: Scott Navis\nFacility: Cencora - Romeoville, IL\nSeverity: P2\nWorkflow state: In progress\n\nNotes:\nIntermittent blockage signal on the merge photo eye. Site reports one false\nblock every forty minutes. Scheduled a controls review for the next shutdown.\n",
+   "has_attachment": false,
+   "attachment": null,
+   "expect": {
+    "outcome": "held",
+    "reason": "Text parsing error",
+    "detail": "Known Dematic layout not matched. Labels Case Number, Case Priority and Case Status were not found. Fields recovered by the model fallback at reduced confidence."
+   }
+  },
+  {
+   "id": "SYN-9002",
+   "source": "synthesized",
+   "vendor": "KNAPP",
+   "source_note": "Attachment present but unreadable.",
+   "received": "2026-09-26T16:40:00Z",
+   "from_name": "rfc MANAGEMENT",
+   "from_email": "rfc.management@knapp.com",
+   "to": "VS Atlanta <VSAtlanta@cencora.com>",
+   "subject": "US00100_RfC40688_2026-09-26_CENCORA_SHUTTLE FIRMWARE ROLLBACK",
+   "body": "CAUTION: This email originated from outside of the organization. DO NOT CLICK links or open attachments unless you recognize the sender and know the content is safe.\n\nDear All,\n\nPlease find enclosed the notification for a Change Request. We kindly ask you to\ncontact the Service Desk to fix date and time for the implementation.\n\nMit freundlichen Gruessen / Best regards,\n\nMaria Harzl\nRfC Coordinator\nKNAPP AG\n",
+   "has_attachment": true,
+   "attachment": {
+    "filename": "US00100_RfC40688_SHUTTLE_FIRMWARE_ROLLBACK.pdf",
+    "doc_type": "Request for Change",
+    "corrupt": true
+   },
+   "expect": {
+    "outcome": "held",
+    "reason": "Attachment extraction failure",
+    "detail": "The PDF has no extractable text layer. The message and the file are stored unchanged and queued for review."
+   }
+  },
+  {
+   "id": "SYN-9003",
+   "source": "synthesized",
+   "vendor": "Unknown",
+   "source_note": "Not a hotline message. Arrived in a monitored mailbox.",
+   "received": "2026-09-27T12:03:00Z",
+   "from_name": "Facilities Scheduling",
+   "from_email": "facilities@cencora.com",
+   "to": "VS Seattle <VSSeattle@cencora.com>",
+   "subject": "Reminder: quarterly fire panel test Saturday 07:00",
+   "body": "All, the quarterly fire panel test runs Saturday at 07:00. No MHE impact expected.",
+   "has_attachment": false,
+   "attachment": null,
+   "expect": {
+    "outcome": "rejected",
+    "reason": "Incoming email rejection",
+    "detail": "Sender does not match any in-scope vendor. Stored in the lake and excluded from the table."
+   }
+  }
+ ],
+ "sites": [
+  {
+   "key": "ROM",
+   "city": "Romeoville",
+   "state": "IL",
+   "mailbox": "VSChicago",
+   "dematic_customer_id": "201331",
+   "knapp_account": "US00096"
+  },
+  {
+   "key": "DSM",
+   "city": "Des Moines",
+   "state": "WA",
+   "mailbox": "VSSeattle",
+   "dematic_customer_id": "217502",
+   "knapp_account": "US00098"
+  },
+  {
+   "key": "PHX",
+   "city": "Phoenix",
+   "state": "AZ",
+   "mailbox": "VSPhoenix",
+   "dematic_customer_id": "217555",
+   "knapp_account": "US00099"
+  },
+  {
+   "key": "COR",
+   "city": "Corona",
+   "state": "CA",
+   "mailbox": "VSCorona",
+   "dematic_customer_id": "206827",
+   "knapp_account": "US00102"
+  },
+  {
+   "key": "KCM",
+   "city": "Kansas City",
+   "state": "MO",
+   "mailbox": "VSKansasCity",
+   "dematic_customer_id": "199960",
+   "knapp_account": "US00093"
+  },
+  {
+   "key": "OLB",
+   "city": "Olive Branch",
+   "state": "MS",
+   "mailbox": "VSMemphis",
+   "dematic_customer_id": "214408",
+   "knapp_account": "US00094"
+  },
+  {
+   "key": "NEW",
+   "city": "Newburgh",
+   "state": "NY",
+   "mailbox": "VSNewburgh",
+   "dematic_customer_id": "203118",
+   "knapp_account": "US00095"
+  },
+  {
+   "key": "WHT",
+   "city": "Whitestown",
+   "state": "IN",
+   "mailbox": "VSIndianapolis",
+   "dematic_customer_id": "211470",
+   "knapp_account": "US00101"
+  },
+  {
+   "key": "BUF",
+   "city": "Buford",
+   "state": "GA",
+   "mailbox": "VSAtlanta",
+   "dematic_customer_id": "208345",
+   "knapp_account": "US00100"
+  },
+  {
+   "key": "RIC",
+   "city": "Richmond",
+   "state": "VA",
+   "mailbox": "VSRichmond",
+   "dematic_customer_id": "209774",
+   "knapp_account": "US00097"
+  }
+ ],
+ "tickets": [
+  {
+   "ticket_id": "11860169",
+   "vendor": "dematic",
+   "site_key": "ROM",
+   "subject": "Shipping sorter diverting to jackpot"
+  },
+  {
+   "ticket_id": "11860280",
+   "vendor": "dematic",
+   "site_key": "DSM",
+   "subject": "Motor fault on bed 303822"
+  },
+  {
+   "ticket_id": "11860435",
+   "vendor": "dematic",
+   "site_key": "PHX",
+   "subject": "Photo eye timing changes"
+  },
+  {
+   "ticket_id": "11860583",
+   "vendor": "dematic",
+   "site_key": "COR",
+   "subject": "Sort Director parameter change"
+  },
+  {
+   "ticket_id": "11860773",
+   "vendor": "dematic",
+   "site_key": "KCM",
+   "subject": "75% full indicator issue"
+  },
+  {
+   "ticket_id": "11860933",
+   "vendor": "dematic",
+   "site_key": "WHT",
+   "subject": "Induction scanner no reads"
+  },
+  {
+   "ticket_id": "1310415",
+   "vendor": "knapp",
+   "site_key": "PHX",
+   "subject": "Announcement scanner not registering large totes"
+  },
+  {
+   "ticket_id": "1310463",
+   "vendor": "knapp",
+   "site_key": "DSM",
+   "subject": "Process frozen on LLM 3"
+  },
+  {
+   "ticket_id": "1310502",
+   "vendor": "knapp",
+   "site_key": "NEW",
+   "subject": "Transfer totes leaving the vault without lids"
+  },
+  {
+   "ticket_id": "1310562",
+   "vendor": "knapp",
+   "site_key": "OLB",
+   "subject": "Pick it easy station 3 red triangles"
+  },
+  {
+   "ticket_id": "1310589",
+   "vendor": "knapp",
+   "site_key": "BUF",
+   "subject": "LLM1 lid retainer errors"
+  },
+  {
+   "ticket_id": "1310608",
+   "vendor": "knapp",
+   "site_key": "WHT",
+   "subject": "Shuttle timeout after RFC install"
+  },
+  {
+   "ticket_id": "01290119",
+   "vendor": "schaefer",
+   "site_key": "RIC",
+   "subject": "Order start releasing totes early"
+  },
+  {
+   "ticket_id": "01290146",
+   "vendor": "schaefer",
+   "site_key": "ROM",
+   "subject": "Tray lift stopped at transfer deck"
+  },
+  {
+   "ticket_id": "01290162",
+   "vendor": "schaefer",
+   "site_key": "BUF",
+   "subject": "Carton erector jam on line 4"
+  }
+ ],
+ "priority_map": [
+  {
+   "normalized": "P1 Critical",
+   "rank": 1,
+   "dematic": "1",
+   "knapp": "1 - Immediate",
+   "schaefer": "A"
+  },
+  {
+   "normalized": "P2 High",
+   "rank": 2,
+   "dematic": "2",
+   "knapp": "2 - Urgent",
+   "schaefer": "B"
+  },
+  {
+   "normalized": "P3 Medium",
+   "rank": 3,
+   "dematic": "3, 4",
+   "knapp": "3 - Medium",
+   "schaefer": "C"
+  },
+  {
+   "normalized": "P4 Low",
+   "rank": 4,
+   "dematic": "5",
+   "knapp": "4 - Low",
+   "schaefer": "D"
+  },
+  {
+   "normalized": "P5 Informational",
+   "rank": 5,
+   "dematic": "6",
+   "knapp": "not used",
+   "schaefer": "not used"
+  }
+ ],
+ "status_map": [
+  {
+   "normalized": "Open",
+   "dematic": "Open",
+   "knapp": "CREATED (subject line)",
+   "schaefer": "A new Case was submitted (subject line)"
+  },
+  {
+   "normalized": "In progress",
+   "dematic": "Responded, Researching",
+   "knapp": "not sent",
+   "schaefer": "Case has been updated (subject line)"
+  },
+  {
+   "normalized": "Waiting on Cencora",
+   "dematic": "Waiting for Customer",
+   "knapp": "WAITING FOR CUSTOMER RESPONSE (subject line)",
+   "schaefer": "not sent"
+  },
+  {
+   "normalized": "Pending verification",
+   "dematic": "Solution Evaluation, Turnover CS Review",
+   "knapp": "RECOVERED (subject line)",
+   "schaefer": "not sent"
+  },
+  {
+   "normalized": "Closed",
+   "dematic": "Closed",
+   "knapp": "Attached your Final Report (subject line)",
+   "schaefer": "not sent"
+  }
+ ],
+ "target_columns": [
+  "Vendor",
+  "EmailReceivedTimestamp",
+  "EmailFrom address",
+  "EmailToAddress",
+  "EmailSubjectLine",
+  "EmailPreamble",
+  "CaseNumber/TicketID",
+  "CaseComment/TicketType",
+  "ReportedOnDate",
+  "AB_ReferenceNumber",
+  "CaseSubject",
+  "AB_CaseContact",
+  "AB_Location",
+  "AB_ServiceTechnician",
+  "CasePriority",
+  "CaseStatus",
+  "IssueDescription",
+  "EmailFilename",
+  "CreatedTimestamp",
+  "Attachment(Y/N)",
+  "AttachmentFilename"
+ ],
+ "attachment_example": {
+  "filename": "US00101_RfC40452_2023-02-02_DECANT_STATIONS_FROZEN.pdf",
+  "doc_type": "Request for Change",
+  "fields": {
+   "Project number": "US00101",
+   "Installation": "CENCORA Indianapolis",
+   "RfC number": "40452",
+   "Keyword": "DECANT STATIONS FROZEN REPAIRED GUIDO EXCEPTIONS",
+   "Creation date": "2023-02-02",
+   "Author": "Antonin Hruskovsky",
+   "Service request": "1217461",
+   "Description": "All Java memory problems were repaired about a year ago and the memory was increased. Two repeating exceptions remain across the trace directories before the problem, which will be fixed with this RfC.",
+   "Implementation procedure": "Connect to the system, back up affected files, apply changeset, run sqlplus on new or changed files, restart KLASS-X",
+   "Test plan": "Check that the GUIDO white screen no longer occurs",
+   "Rollback": "Connect to the system, restore affected files from backup, run sqlplus, restart KLASS-X",
+   "Risk": "No production data altered, easy rollback, change is fully testable",
+   "Implementation duration": "60 min",
+   "Rollback duration": "30 min",
+   "WCS downtime": "30 min",
+   "Conditions": "WCS stopped, no host transmission, no order processing during installation"
+  }
+ }
+}

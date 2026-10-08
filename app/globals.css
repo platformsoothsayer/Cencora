@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-navy: #0f2a4c;
+  --color-blue: #2e7da8;
+  --color-lightblue: #4ba1d0;
+  --color-card: #eef4f8;
+  --color-alt: #f6f9fb;
+  --color-line: #cbd9e6;
+  --color-ink: #2a3138;
+  --color-muted: #7a8895;
+  /* Amber is reserved: a decision Cencora has to make, or a failure. */
+  --color-amber: #b57a00;
+  --font-sans: var(--font-plex-sans);
+  --font-mono: var(--font-plex-mono);
+  --radius-sm: 2px;
+  --radius: 2px;
+  --radius-md: 2px;
+  --radius-lg: 3px;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  background: #ffffff;
+  color: #2a3138;
+  font-family: var(--font-plex-sans), system-ui, sans-serif;
+  font-size: 14px;
+}
+
+* {
+  box-shadow: none !important;
+}
